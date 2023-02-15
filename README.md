@@ -1,3 +1,3 @@
 # Celestial-Bodies
 
-buill a celestial bodies database using PosqreSQL
+build a celestial bodies database using PosqreSQL
